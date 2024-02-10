@@ -4,7 +4,7 @@
 ### ![I do cool Machine Learning stuffs | Data Science | Cyber Security]
 
 
-### (https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+ (https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 ### I'm in my final year Bachelors of Science in IT from University of Cape Coast.
 
@@ -22,6 +22,7 @@
 ### - 📫 How to reach me: sumailaayamba16@gmail.com 
 ### - 😄 Pronouns: Football | Reading | Swimming 
 ### - ⚡ Fun fact: while true: code eat sleep 
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AyambaSumaila)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sumaila-ayamba/)  
