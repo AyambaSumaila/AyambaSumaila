@@ -1,11 +1,8 @@
 
+![Custom Banner](https://github.com/AyambaSumaila/AyambaSumaila/blob/main/linkkk.jpg))
 # . 😄 Smile 
 # . 🤽‍♂️ Playing
-
 # Hi there 👋, Ayamba Sumaila here
-![Custom Banner](https://github.com/AyambaSumaila/AyambaSumaila/blob/main/linkkk.jpg))
-
-
 ### I do cool stuffs Machine Learning | Data Science | Cyber Security
 
 ### I'm in my final year Bachelors of Science in IT from University of Cape Coast.
