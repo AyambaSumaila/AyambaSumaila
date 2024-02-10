@@ -1,7 +1,7 @@
 # Hi there 👋, Ayamba Sumaila here
 ### I do cool Machine Learning stuffs | Data Science | Cyber Security
 
-### ![I do cool Machine Learning stuffs | Data Science | Cyber Security]
+### I do cool Machine Learning stuffs | Data Science | Cyber Security
 
 
  (https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
@@ -12,8 +12,10 @@
 ### 👯 I'm open for collaborations in Data Science and Machine Learning domains.
 
 ## Skills:
-### Power BI | Excel | Tableau | SQL | Agile Development| Linus | Python | Django | ML | Data Science | DL | NLP | Algorithms | C++
+### Power BI | Excel | Tableau | SQL | Agile Development| Linus  | Django | ML | Data Science | DL | NLP | Algorithms 
 
+## Programming Languages:
+### Python, C++, Java, HTML, CSS, PHP, Javascript 
 ### - 🔭 I’m currently working on My company 
 ### - 🌱 I’m currently learning Computer Vision | Deep Learning 
 ### - 👯 I’m looking to collaborate on Machine Learning Problems | Data Science | Web Development  
