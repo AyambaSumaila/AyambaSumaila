@@ -3,7 +3,7 @@
 # . 🤽‍♂️ Playing
 
 # Hi there 👋, Ayamba Sumaila here
-![Custom Banner](https://example.com/your-banner-image.png)
+![Custom Banner]([https://example.com/your-banner-image.png](https://github.com/AyambaSumaila/AyambaSumaila/blob/main/linkkk.jpg))
 
 
 ### I do cool stuffs Machine Learning | Data Science | Cyber Security
