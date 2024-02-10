@@ -3,8 +3,7 @@
 
 ### I do cool Machine Learning stuffs | Data Science | Cyber Security
 
-
- (https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 ### I'm in my final year Bachelors of Science in IT from University of Cape Coast.
 
@@ -15,7 +14,9 @@
 ### Power BI | Excel | Tableau | SQL | Agile Development| Linus  | Django | ML | Data Science | DL | NLP | Algorithms 
 
 ## Programming Languages:
-### Python, C++, Java, HTML, CSS, PHP, Javascript 
+  ### Python, C++, Java, HTML, CSS, PHP, Javascript 
+
+## About & Infor:
 ### - 🔭 I’m currently working on My company 
 ### - 🌱 I’m currently learning Computer Vision | Deep Learning 
 ### - 👯 I’m looking to collaborate on Machine Learning Problems | Data Science | Web Development  
