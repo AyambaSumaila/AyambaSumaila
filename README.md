@@ -1,6 +1,6 @@
 
 ![Custom Banner](https://github.com/AyambaSumaila/AyambaSumaila/blob/main/peseptron.PNG)
-# Buzz words  || Gradient Descent || ANN || CNN || BOW || YOLO || TOKENIZATION || STEMMING | LEMMATIZATION
+## Buzz words  || Gradient Descent || ANN || CNN || BOW || YOLO || TOKENIZATION || STEMMING | LEMMATIZATION
 
 
 # Hi there 👋, Ayamba Sumaila here
