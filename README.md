@@ -4,7 +4,7 @@
 ### ![I do cool Machine Learning stuffs | Data Science | Cyber Security]
 
 
-### (https://github.com/AyambaSumaila/AyambaSumaila/blob/main/linkkk.jpg)
+### (https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 ### I'm in my final year Bachelors of Science in IT from University of Cape Coast.
 
