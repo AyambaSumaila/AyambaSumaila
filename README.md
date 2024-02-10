@@ -21,9 +21,7 @@ Skills: Power BI | Excel | Tableau | SQL | Agile Development| Linus | Python | D
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AyambaSumaila)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sumaila-ayamba/)  
 
-## [![trophy](https://github-profile-trophy.vercel.app/?username=AyambaSumaila)](https://github.com/ryo-ma/github-profile-trophy)
 
-## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyambaSumaila)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AyambaSumaila&show_icons=true)  
 
