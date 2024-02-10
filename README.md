@@ -1,5 +1,5 @@
 
-![Custom Banner](https://github.com/AyambaSumaila/AyambaSumaila/blob/main/linkkk.jpg)
+![Custom Banner](https://github.com/AyambaSumaila/AyambaSumaila/blob/main/peseptron.PNG))
 
 # Hi there 👋, Ayamba Sumaila here
 ### I do cool stuffs Machine Learning | Data Science | Cyber Security
