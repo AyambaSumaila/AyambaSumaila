@@ -1,3 +1,9 @@
+#  Gradient Descent 
+# ANN
+# CNN
+# BOW 
+# YOLO
+
 
 ![Custom Banner](https://github.com/AyambaSumaila/AyambaSumaila/blob/main/peseptron.PNG)
 
