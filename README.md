@@ -3,7 +3,8 @@
 # . 🤽‍♂️ Playing
 
 # Hi there 👋, Ayamba Sumaila here
-(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Custom Banner](https://example.com/your-banner-image.png)
+
 
 ### I do cool stuffs Machine Learning | Data Science | Cyber Security
 
