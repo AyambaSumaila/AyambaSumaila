@@ -1,10 +1,6 @@
 # Hi there 👋, Ayamba Sumaila here
 (https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-### I do cool Machine Learning stuffs | Data Science | Cyber Security
-
-### I do cool Machine Learning stuffs | Data Science | Cyber Security
-
-
+### I do cool stuffs Machine Learning | Data Science | Cyber Security
 
 ### I'm in my final year Bachelors of Science in IT from University of Cape Coast.
 
