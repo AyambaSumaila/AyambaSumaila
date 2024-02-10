@@ -1,7 +1,6 @@
 
-![Custom Banner](https://github.com/AyambaSumaila/AyambaSumaila/blob/main/linkkk.jpg))
-# . 😄 Smile 
-# . 🤽‍♂️ Playing
+![Custom Banner](https://github.com/AyambaSumaila/AyambaSumaila/blob/main/linkkk.jpg)
+
 # Hi there 👋, Ayamba Sumaila here
 ### I do cool stuffs Machine Learning | Data Science | Cyber Security
 
@@ -15,7 +14,7 @@
 
 ## Programming Languages: 
 ### Python  | C++ | Java | PHP| Javascript | C  
-
+### . 💻 HTML, CSS, Bootstrap, Tailwind CSS
 
 ## About & Infor:
 ### - 🔭 I’m currently working on My company 
@@ -27,8 +26,9 @@
 ### - 😄 Pronouns: Football | Reading | Swimming 
 ### - ⚡ Fun fact: while true: code eat sleep 
 
+# . 😄 Smile 
+# . 🤽‍♂️ Playing
 
-. 💻 HTML, CSS, Bootstrap, Tailwind CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AyambaSumaila)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sumaila-ayamba/)  
 
