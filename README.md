@@ -1,6 +1,5 @@
 
-
-
+emoji
 
 # Hi there 👋, Ayamba Sumaila here
 (https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
@@ -14,8 +13,14 @@
 ## Skills:
 ### Power BI | Excel | Tableau | SQL | Agile Development| Linus  | Django | ML | Data Science | DL | NLP | Algorithms 
 
-## Programming Languages:
-  ### Python, C++, Java, HTML, CSS, PHP, Javascript 
+## Programming Languages: 
+### Python 
+### C++ 
+### Java 
+### HTML 
+### CSS  
+### PHP 
+### Javascript: 
 
 ## About & Infor:
 ### - 🔭 I’m currently working on My company 
@@ -27,8 +32,13 @@
 ### - 😄 Pronouns: Football | Reading | Swimming 
 ### - ⚡ Fun fact: while true: code eat sleep 
 
-
-
+. :smile:
+. :heart: 
+. :rocket:
+. :facebook:
+. :linkedin:
+. :coursera:
+. :github:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AyambaSumaila)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sumaila-ayamba/)  
 
 
