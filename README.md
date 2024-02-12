@@ -3,7 +3,7 @@
 ## Buzz words ==>> Gradient Descent || ANN || CNN || BOW || YOLO || TOKENIZATION || STEMMING | LEMMATIZATION
 
 
-# Hi there 👋, Ayamba Sumaila here
+# Hi there 👋, I'm Ayamba Sumaila 
 ### I do cool stuffs Machine Learning | Data Science | Cyber Security
 
 ### I'm in my final year Bachelors of Science in IT from University of Cape Coast.
