@@ -1,5 +1,5 @@
 
-#![Custom Banner](https://github.com/AyambaSumaila/AyambaSumaila/blob/main/peseptron.PNG)
+#![Custom Banner](h://github.com/AyambaSumaila/AyambaSumaila/blob/main/peseptron.PNG)
 ## Buzz words ==>> Gradient Descent || ANN || CNN || BOW || YOLO || TOKENIZATION || STEMMING | LEMMATIZATION
 
 
