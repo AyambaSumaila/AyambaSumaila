@@ -15,7 +15,7 @@
 ### Power BI | Excel | Tableau | SQL | Agile Development| Linus  | Django | ML | Data Science | DL | NLP | Algorithms 
 
 ## Programming Languages: 
-### Python  | C++ | Java | PHP| Javascript | C  
+### Python  Django | Flash | C++ | C  
 ### . 💻 HTML, CSS, Bootstrap, Tailwind CSS
 
 ## About & Infor:
