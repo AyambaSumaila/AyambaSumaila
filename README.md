@@ -49,10 +49,10 @@
 ### - 💬 Ask me about ML | DS | DSA | Python | C++  
 # Ask me about ML | DS | DSA | Python | C++   
 <br>
-<h3> https://github.com/AyambaSumaila/AyambaSumaila/issues</h3>
+<a href="#"> https://github.com/AyambaSumaila/AyambaSumaila/issues</a>
 <h3>- 📫 How to reach me: sumailaayamba16@gmail.com </h3>
-### - 😄 Pronouns: Football | Reading | Swimming 
-### - ⚡ Fun fact: while true: code eat sleep 
+<h3> - 😄 Pronouns: Football | Reading | Swimming </h3>
+<h3>- ⚡ Fun fact: while true: code eat sleep </h3>
 ### . 😄 Smile 
 ### . 🤽‍♂️ Playing
 
