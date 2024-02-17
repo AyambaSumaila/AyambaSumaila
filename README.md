@@ -22,9 +22,7 @@
 
  <hr/>
  <br/>
-# Ask me about ML | DS | DSA | Python | C++   
-<br>
-(https://github.com/AyambaSumaila/AyambaSumaila/issues)
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -34,7 +32,7 @@
 
 <br/>
 <hr/>
-# A passionate ML & software developer from Ghana
+#  A passionate ML & software developer from Ghana
 ### I do cool stuffs Machine Learning | Data Science | Cyber Security
 
 ### I'm in my final year Bachelors of Science in IT from University of Cape Coast.
@@ -48,6 +46,9 @@
 ### - 👯 I’m looking to collaborate on Machine Learning Problems | Data Science | Web Development  
 ### - 🤔 I’m looking for help with Machine Learning Projects 
 ### - 💬 Ask me about ML | DS | DSA | Python | C++  
+# Ask me about ML | DS | DSA | Python | C++   
+<br>
+(https://github.com/AyambaSumaila/AyambaSumaila/issues)
 ### - 📫 How to reach me: sumailaayamba16@gmail.com 
 ### - 😄 Pronouns: Football | Reading | Swimming 
 ### - ⚡ Fun fact: while true: code eat sleep 
