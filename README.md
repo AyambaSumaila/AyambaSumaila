@@ -48,7 +48,7 @@
 <br/>
 
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 💬 Ask me about ML | DS | DSA | Python | C++   [here](https://github.com/salesp07/salesp07/issues)**
 
 
  
