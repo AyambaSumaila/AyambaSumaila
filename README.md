@@ -32,7 +32,8 @@
 
 <br/>
 <hr/>
-#  A passionate ML & software developer from Ghana
+<h6>A passionate ML & software developer from Ghana</h6>
+<br>
 ### I do cool stuffs Machine Learning | Data Science | Cyber Security
 
 ### I'm in my final year Bachelors of Science in IT from University of Cape Coast.
