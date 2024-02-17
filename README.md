@@ -9,7 +9,9 @@
 </h1>
 
 <br/>
-# Ask me about ML | DS | DSA | Python | C++   [here](https://github.com/AyambaSumaila/AyambaSumaila/issues)) 
+# Ask me about ML | DS | DSA | Python | C++   
+<br>
+[here](https://github.com/AyambaSumaila/AyambaSumaila/issues)) 
 <div align="center"> 
   <a href="mailto:pedro.sales.muniz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
