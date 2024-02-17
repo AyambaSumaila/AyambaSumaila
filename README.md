@@ -7,11 +7,6 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Django!+👋;+Flask+Python!;" />
 </h1>
-
-<br/>
-# Ask me about ML | DS | DSA | Python | C++   
-<br>
-[here](https://github.com/AyambaSumaila/AyambaSumaila/issues)) 
 <div align="center"> 
   <a href="mailto:pedro.sales.muniz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -26,7 +21,10 @@
 </div>
 
  <hr/>
- 
+ <br/>
+# Ask me about ML | DS | DSA | Python | C++   
+<br>
+(https://github.com/AyambaSumaila/AyambaSumaila/issues)
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
