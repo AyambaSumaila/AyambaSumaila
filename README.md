@@ -4,32 +4,6 @@
 
 
 # Hi there 👋, I'm Ayamba Sumaila 
-### I do cool stuffs Machine Learning | Data Science | Cyber Security
-
-### I'm in my final year Bachelors of Science in IT from University of Cape Coast.
-
-### 🌱  I'm currently learning from Coursera and Kaggle.
-### 👯 I'm open for collaborations in Data Science and Machine Learning domains.
-
-## Skills:
-### Power BI | Excel | Tableau | SQL | Agile Development| Linus  | Django | ML | Data Science | DL | NLP | Algorithms 
-
-## Programming Languages: 
-### Python  Django | Flash | C++ | C  
-### . 💻 HTML, CSS, Bootstrap, Tailwind CSS
-
-## About & Infor:
-### - 🔭 I’m currently working on My company 
-### - 🌱 I’m currently learning Computer Vision | Deep Learning 
-### - 👯 I’m looking to collaborate on Machine Learning Problems | Data Science | Web Development  
-### - 🤔 I’m looking for help with Machine Learning Projects 
-### - 💬 Ask me about ML | DS | DSA | Python | C++  
-### - 📫 How to reach me: sumailaayamba16@gmail.com 
-### - 😄 Pronouns: Football | Reading | Swimming 
-### - ⚡ Fun fact: while true: code eat sleep 
-
-# . 😄 Smile 
-# . 🤽‍♂️ Playing
 
 
 <h1 align="center">
@@ -75,6 +49,32 @@
 
 <br/>
 <hr/>
+### I do cool stuffs Machine Learning | Data Science | Cyber Security
+
+### I'm in my final year Bachelors of Science in IT from University of Cape Coast.
+
+### 🌱  I'm currently learning from Coursera and Kaggle.
+### 👯 I'm open for collaborations in Data Science and Machine Learning domains.
+
+## Skills:
+### Power BI | Excel | Tableau | SQL | Agile Development| Linus  | Django | ML | Data Science | DL | NLP | Algorithms 
+
+## Programming Languages: 
+### Python  Django | Flash | C++ | C  
+### . 💻 HTML, CSS, Bootstrap, Tailwind CSS
+
+## About & Infor:
+### - 🔭 I’m currently working on My company 
+### - 🌱 I’m currently learning Computer Vision | Deep Learning 
+### - 👯 I’m looking to collaborate on Machine Learning Problems | Data Science | Web Development  
+### - 🤔 I’m looking for help with Machine Learning Projects 
+### - 💬 Ask me about ML | DS | DSA | Python | C++  
+### - 📫 How to reach me: sumailaayamba16@gmail.com 
+### - 😄 Pronouns: Football | Reading | Swimming 
+### - ⚡ Fun fact: while true: code eat sleep 
+
+# . 😄 Smile 
+# . 🤽‍♂️ Playing
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
