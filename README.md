@@ -7,7 +7,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Django!+👋;+Flask+Python!;" />
 </h1>
-# A passionate ML & software developer from Ghana
+
 <br/>
 # Ask me about ML | DS | DSA | Python | C++   [here](https://github.com/AyambaSumaila/AyambaSumaila/issues)) 
 <div align="center"> 
@@ -34,6 +34,7 @@
 
 <br/>
 <hr/>
+# A passionate ML & software developer from Ghana
 ### I do cool stuffs Machine Learning | Data Science | Cyber Security
 
 ### I'm in my final year Bachelors of Science in IT from University of Cape Coast.
