@@ -47,11 +47,11 @@
 ### - 👯 I’m looking to collaborate on Machine Learning Problems | Data Science | Web Development  
 ### - 🤔 I’m looking for help with Machine Learning Projects 
 ### - 💬 Ask me about ML | DS | DSA | Python | C++  
-# Ask me about ML | DS | DSA | Python | C++   
+# Ask me about ML | DS | DSA | Python | C++ | DL | NLP
 <br>
 <a href="https://github.com/AyambaSumaila/AyambaSumaila/issues">Click here if there are any issues</a>
 <h3>- 📫 How to reach me: sumailaayamba16@gmail.com </h3>
-<h3> - 😄 Pronouns: Football | Reading | Swimming </h3>
+<h3> - 😄 Verbs: Football | Reading | Swimming </h3>
 <h3>- ⚡ Fun fact: while true: code eat sleep </h3>
 <h3>. 😄 Smile </h3>
 <h3>. 🤽‍♂️ Playing</h3>
@@ -59,15 +59,9 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  
-   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  
-  <br/><br/><br/>
+   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" /><br>
 </div>
-
 <hr/>
-
 <h2 align="center">⚡ My Statistics ⚡</h2>
 <br>
 <div align=center>
