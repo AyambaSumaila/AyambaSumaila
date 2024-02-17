@@ -41,13 +41,6 @@
 ### 🌱  I'm currently learning from Coursera and Kaggle.
 ### 👯 I'm open for collaborations in Data Science and Machine Learning domains.
 
-## Skills:
-### Power BI | Excel | Tableau | SQL | Agile Development| Linus  | Django | ML | Data Science | DL | NLP | Algorithms 
-
-## Programming Languages: 
-### Python  Django | Flash | C++ | C  
-### . 💻 HTML, CSS, Bootstrap, Tailwind CSS
-
 ## About & Infor:
 ### - 🔭 I’m currently working on My company 
 ### - 🌱 I’m currently learning Computer Vision | Deep Learning 
