@@ -39,32 +39,32 @@
 
 <br/>
 <hr/>
-<h2>A passionate ML & software developer from Ghana</h2>
+<h3>A passionate ML & software developer from Ghana</h3>
 <br>
-<h3> I do cool stuffs related to Machine Learning || Software Development </h3>
+<h4> I do cool stuffs related to Machine Learning || Software Development </h4>
 
-<h3> I'm in my final year Bachelors of Science in IT from University of Cape Coast</h3>
+<h4> I'm in my final year Bachelors of Science in IT from University of Cape Coast</h4>
 
-<h3>🌱  I'm currently learning from Coursera and Kaggle</h3>
-<h3> 👯 I'm open for collaborations in Data Science and Machine Learning domains</h3>
+<h4>🌱  I'm currently learning from Coursera and Kaggle</h4>
+<h4> 👯 I'm open for collaborations in Data Science and Machine Learning domains</h4>
 
 ## About & Infor:
-### - 🔭 I’m currently working on My company 
-### - 🌱 I’m currently learning Computer Vision | Deep Learning 
-### - 👯 I’m looking to collaborate on Machine Learning Problems | Data Science | Web Development  
-### - 🤔 I’m looking for help with Machine Learning Projects 
-### - 💬 Ask me about ML | DS | DSA | Python | C++  
-# Ask me about ML | DS | DSA | Python | C++ | DL | NLP
+#### - 🔭 I’m currently working on My company 
+#### - 🌱 I’m currently learning Computer Vision | Deep Learning 
+#### - 👯 I’m looking to collaborate on Machine Learning Problems | Data Science | Web Development  
+#### - 🤔 I’m looking for help with Machine Learning Projects 
+#### - 💬 Ask me about ML | DS | DSA | Python | C++  
+### Ask me about ML | DS | DSA | Python | C++ | DL | NLP
 <br>
 <a href="https://github.com/AyambaSumaila/AyambaSumaila/issues">Click here if there are any issues</a>
-<h3>- 📫 How to reach me: sumailaayamba16@gmail.com </h3>
-<h3> - 😄 Verbs: Football | Reading | Swimming </h3>
-<h3>- ⚡ Fun fact: while true: code eat sleep </h3>
-<h3>. 😄 Smile </h3>
-<h3>. 🤽‍♂️ Playing</h3>
+<h4>- 📫 How to reach me: sumailaayamba16@gmail.com </h4>
+<h4> - 😄 Verbs: Football | Reading | Swimming </h4>
+<h4>- ⚡ Fun fact: while true: code eat sleep </h4>
+<h4>. 😄 Smile </h4>
+<h4>. 🤽‍♂️ Playing</h4>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h4>🐍 My Contributions 🐍</h4>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   <br>
