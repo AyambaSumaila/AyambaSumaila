@@ -4,6 +4,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=MachineLearning!+👋;" />
 </h1>
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=DeepLearning!+👋;" />
 </h1>
@@ -64,13 +65,15 @@
 <h4>. 🤽‍♂️ Playing</h4>
 
 <div align="center">
+a href="https://github.com/AyambaSumaila/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=AyambaSumaila&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/AyambaSumaila/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyambaSumaila&theme=tokyonight" />
+</a>
+</div>
 
-a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ShadyD45&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadyD45&theme=tokyonight" />
-</a>
+<div align="center">
 
   <h4>🐍 My Contributions 🐍</h4>
   <br>
