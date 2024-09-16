@@ -1,21 +1,21 @@
-<h1 align="center">
+<h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sumaila+Ayamba!;" />
-</h1>
+</h3>
 
-<h1 align="center">
+<h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Please +👋;+ Remember to + ME;" />
-</h1>
-<h1 align="center">
+</h3>
+<h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=MachineLearning!+👋;" />
-</h1>
+</h3>
 
-<h1 align="center">
+<h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=SoftwareEngineering!+👋;" />
-</h1>
+</h3>
 
-<h1 align="center">
+<h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Python!+👋;+Java+Cpp!;" />
-</h1>
+</h3>
 <div align="center"> 
   <a href="mailto:sumailaayamba16@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -32,7 +32,7 @@
  <hr/>
  <br/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h4 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h4>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,tailwind,git" />
