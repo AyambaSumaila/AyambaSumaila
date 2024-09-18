@@ -56,7 +56,7 @@
 ### Ask me about ML | DS | DSA | Python | C++ | DL | NLP
 <br>
 <a href="https://github.com/AyambaSumaila/AyambaSumaila/issues">Click here if there are any issues</a>
-<h4>- 📫 How to reach me: sumailaayamba16@gmail.com </h4>
+
 <h4> - 😄 Verbs: Football | Reading | Swimming </h4>
 <h4>- ⚡ Fun fact: while true: code? eat? sleep! </h4>
 <h4>. 😄 Smile </h4>
