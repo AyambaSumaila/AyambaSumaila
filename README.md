@@ -53,7 +53,7 @@
 #### - 👯 I’m looking to collaborate on Machine Learning Problems | Data Science | Web Development  
 #### - 🤔 I’m looking for help with Machine Learning Projects 
 #### - 💬 Ask me about ML | DS | DSA | Python | C++  
-### Ask me about ML | DS | DSA | Python | C++ | DL | NLP
+### Learning about ML | DS | DSA | Python | C++ | DL | NLP ...)
 <br>
 <a href="https://github.com/AyambaSumaila/AyambaSumaila/issues">Click here if there are any issues</a>
 
